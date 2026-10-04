@@ -433,8 +433,10 @@ header .intro-text {
 }
 /* Features Section */
 #features {
+
+
   padding: 100px 0;
-  background: #f6f6f6;
+  background: #3ED9C9;
 }
 #features i.fa {
   font-size: 38px;
